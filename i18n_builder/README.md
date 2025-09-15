@@ -28,8 +28,6 @@ export DEEPL_API_KEY=...
 node build-i18n.mjs --lang ko --in ./metaList.js --provider deepl --out ./i18n-build
 
 # Google Cloud Translate
-#김수지 개인 api키 
-AIzaSyC2TN-YzE-YYrHFxS5QggE3LgTdDfeMcLQ
 
 #파워쉘
 $env:GOOGLE_API_KEY = "여기에_키"
